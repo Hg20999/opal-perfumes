@@ -1,0 +1,269 @@
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Handlee&display=swap');
+* {
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    font-family:'Handlee', cursive;
+    
+}
+    
+.navbar img{
+    width: 180px;
+    height: 60px;
+    }
+    .navbar{
+        display: flex;
+        justify-content: space-between;
+        padding-top: 20px;
+    }
+    a{
+    color:  white;
+    text-decoration: none;
+    padding: 50px;
+    font-size: large;
+    padding-top: 50px;
+}
+ul{
+    list-style: none;
+}
+
+ 
+header{
+    
+    background-color: rgba(203, 192, 209, 1);
+    
+    }
+ 
+ .navbar ul {
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 10px;
+    align-items: center;  
+}
+nav ul li a:hover{
+    color:   rgb(84, 31, 138);
+    font-weight: bold; 
+}
+.baner{
+    width: 207.5vh;
+    height: 90vh;
+    position: relative;
+}
+ .for{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 80px;
+    background-color: rgba(134,108,121,1);
+ }
+.for h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    color: black;
+    border-bottom: 2px black solid;
+   
+}
+ 
+.for p{
+    padding-bottom :20px;
+    font-size: large;
+    letter-spacing: 2px;
+}
+.container {
+    background-color: rgba(216, 211, 218, 1);
+     
+}
+.q2{
+    background-color: #EADADE;
+    height: 110vh;
+}
+.bee{
+    height: 450px;
+    width: 60vh;
+    padding-left: 70vh;
+}
+.am ul li a{
+    display: flex;
+    justify-content: center;
+     padding-top: 30PX;
+     color: rgb(56, 1, 56);
+     font-size: x-large;
+     border: 1px #B9B0D6 solid;
+     width: 350px;
+     border-radius: 50px;
+}
+ 
+.am ul li{
+    padding-left: 440px;
+}
+.am ul li a:hover{
+    color: white;
+    background-color: #B1BEF2;
+}
+.per{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 150px;
+    padding-left: 50px;
+    padding-right: 60px;
+    background-color: 
+    #EADADE}
+.per img{
+    width: 250px;
+    height: 250px;
+}
+ .per h5{
+    padding-left: 70px;
+    font-size: large;
+    font-family: serif;
+ }
+ .per p{
+    padding-left: 110px;
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .two h5{
+    padding-top: 5px;
+    padding-right: 5px;
+ }
+ .one{
+    background-color:rgba(134,108,121,1) ;
+ }
+  
+ .two{
+    background-color:  rgba(134,108,121,1)  ;
+ }
+ .four{
+    background-color: rgba(134,108,121,1)   ;
+ }
+ .Book{
+    color: #000;
+ }
+.queen{
+    background-color:  #EADADE;
+     padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.queen a{
+    font-size: xx-large;
+    height: 10px;
+    width: 30px;
+    border: 2px #B9B0D6 solid;
+    color: rgb(56, 1, 56);
+    padding-right: 90px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    border-radius: 20px;
+    background-color:  rgba(216, 211, 218, 1);
+}
+.car:hover{
+    color: white;
+    background-color: #B1BEF2;
+}
+.soso{
+    width: 207.5vh;
+    height: 190px;
+    background-color:  #EADADE ;
+}
+.do{
+    width: 207.5vh;
+    height: 1px;
+   background-color:rgba(216, 211, 218, 1);
+}
+#About{
+    padding-top: 40px;
+}
+.art{
+    display: flex;
+    justify-content: space-evenly;
+    width: 200vh;
+}
+.art img{
+    height: 90vh;
+    width: 700px;
+    padding-left: 80vh;
+    padding-top: 30px;
+}
+.art p{
+    height: 2px;
+    width: 500px;
+    padding-top: 20vh;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+    font-size: larger;
+}
+.tree{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    background-color:rgba(134,108,121,1)  ;
+    height:150px;
+    
+}
+.car{
+    padding-bottom: 30px;
+}
+.frist img{
+    height: 25px;
+    width: 25px;
+    display: inline;
+}
+.all {
+    padding-top: 70px;
+}
+.er{
+    padding-top: 30px;
+    color: white;
+    padding-left: 70px;
+}
+.contact{
+    background-color: black;
+    height: 90vh;
+    padding-top: 40px;
+}
+ .fine p{
+    color: azure;
+    padding-top: 50px;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 2px;
+ }
+ .find{
+    color: azure;
+    display: flex;
+    justify-content: center;
+    padding-top: 20vh;
+    font-weight: 50px;
+    font-family: serif;
+    font-size: larger;
+    letter-spacing: 2px;}
+    .er{
+        letter-spacing: 2px;
+    }
+    .baner::before{
+        content:"";
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 90vh;
+        width: 207.5vh;
+        background-color: rgb(45, 3, 85);
+    }
+ 
+
+
+
+
+  
+     
+
+     
+ 
